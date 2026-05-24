@@ -2,7 +2,7 @@
 
 ## 🎮 Présentation du projet
 
-**The BestSkeld** est un projet de création d’une **map custom Among Us** inspirée de la célèbre map **The Skeld**.
+**The Skeld Reimagined** est un projet de création d’une **map custom Among Us** inspirée de la célèbre map **The Skeld**.
 
 Le but du projet est de recréer entièrement la map avec :
 
