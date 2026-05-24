@@ -76,6 +76,13 @@ Inspirations principales :
 
 ---
 
+# 🧰 Télécharger les dépendances
+
+Ce projet (comme dans les technoliges utilisées), nécéssite :
+
+* 🗺️ [Level Imposter](https://github.com/DigiWorm0/LevelImposter/releases)
+* 🛠️ [Reactor](https://github.com/NuclearPowered/Reactor) (déjà inclus dans Level Imposter)
+
 # 📢 Suivre le projet
 
 Tu pourras suivre l’avancement du projet via :
