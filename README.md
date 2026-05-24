@@ -60,7 +60,7 @@ Inspirations principales :
 # 📂 Structure du projet
 
 ```bash
-📦 TheSkeldReimagined
+📦 The BestSkeld
  ┣ 📂 Assets
  ┣ 📂 CustomRooms
  ┣ 📂 Textures
