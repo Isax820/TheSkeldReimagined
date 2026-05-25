@@ -85,6 +85,24 @@ Ce projet (comme dans les technoliges utilisées), nécéssite :
 
 ---
 
+# 🌐 TUTO INSTALLATION
+
+- 1 Téléchargez la version ZIP correcte en fonction de votre version d'Among Us (dans [release](https://github.com/Isax820/TheSkeldReimagined#release))
+
+- 2 Accedez au dossier où est installé Among Us :
+  -  Steam : `C:\Program Files (x86)\Steam\steamapps\common\Among Us`
+  -  Epic Games : `C:\Program Files\Epic Games\AmongUs`
+
+- 3 Extrayez-y les fichiers téléchargés. Assurez-vous que le dossier se trouve dans le même dossier que le fichier (voir la capture d’écran ci-dessous). BepInExAmong Us.exe
+
+- 4 Lancez le jeu (veuillez noter que le premier lancement peut prendre un certain temps)
+
+⚠️ Alternativement, si vous utilisez déjà d’autres mods ou si vous avez déjà installé BepInEx, vous pouvez télécharger le fichier DLL directement et le placer dans .BepInEx/plugins
+
+![Installation](https://private-user-images.githubusercontent.com/113532396/408619486-7ff08c67-2833-4936-9f57-b80c4d493c8f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzk2ODg4OTQsIm5iZiI6MTc3OTY4ODU5NCwicGF0aCI6Ii8xMTM1MzIzOTYvNDA4NjE5NDg2LTdmZjA4YzY3LTI4MzMtNDkzNi05ZjU3LWI4MGM0ZDQ5M2M4Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUyNVQwNTU2MzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MmRjZTM5M2RjZmFlYWU0YzA5MDhlMTkxZTliZjkzNDA5N2FhNmZkNjJlZjU2ZDVmZTRkMGRhNzMzMmQzZTkxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.ClrWba131dV0jwt1pL4lzRGyGru2o2_oaIVsbFhbZ2g)
+
+![Setting](https://private-user-images.githubusercontent.com/113532396/407338958-464e0f80-ca8e-4b75-a605-43a7a8d5a50d.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzk2ODk1NDIsIm5iZiI6MTc3OTY4OTI0MiwicGF0aCI6Ii8xMTM1MzIzOTYvNDA3MzM4OTU4LTQ2NGUwZjgwLWNhOGUtNGI3NS1hNjA1LTQzYTdhOGQ1YTUwZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUyNVQwNjA3MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zOThjNmVjYTNjOWY1NDZjMTc3YTc5NTc4MzFiOGVlMDQ3NTE5ZTU3ZTY5NWU3Y2ZkYmVhN2JhYTQ1YTdkMDE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.3SHkrDIEczUdQCQt3QnN4II5nwfKb1R89unjGiN81f4)
+
 # 📢 Suivre le projet
 
 Tu pourras suivre l’avancement du projet via :
