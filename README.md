@@ -18,6 +18,10 @@ Le développement est réalisé grâce au mod **Level Impostor**, permettant la 
 
 # 🖼️ Aperçu du projet
 
+![Map](./screens/map.png)
+
+---
+
 ## ✨ Objectifs
 
 Le projet vise à proposer une expérience différente de la map originale :
