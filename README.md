@@ -103,6 +103,19 @@ Ce projet (comme dans les technoliges utilisées), nécéssite :
 
 ![Setting](https://private-user-images.githubusercontent.com/113532396/407338958-464e0f80-ca8e-4b75-a605-43a7a8d5a50d.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzk2ODk1NDIsIm5iZiI6MTc3OTY4OTI0MiwicGF0aCI6Ii8xMTM1MzIzOTYvNDA3MzM4OTU4LTQ2NGUwZjgwLWNhOGUtNGI3NS1hNjA1LTQzYTdhOGQ1YTUwZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUyNVQwNjA3MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zOThjNmVjYTNjOWY1NDZjMTc3YTc5NTc4MzFiOGVlMDQ3NTE5ZTU3ZTY5NWU3Y2ZkYmVhN2JhYTQ1YTdkMDE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.3SHkrDIEczUdQCQt3QnN4II5nwfKb1R89unjGiN81f4)
 
+---
+
+# 💬 Langues
+
+| Langue               | ❔  |              Status               |
+|-------------------------|:--:|:---------------------------------:|
+| Français                | ✅  |         Entièrement traduit|
+| Chinois              | ❌  |         Non traduit         |
+| Anglais                | ❌  |         Non traduit        |
+| Italien                 | ❌  |         Non traduit      |
+| Espagnol                | ❌ |       Non traduit        |
+| Portugais               | ❌  |         Non traduit      |
+
 # 📢 Suivre le projet
 
 Tu pourras suivre l’avancement du projet via :
