@@ -116,6 +116,8 @@ Ce projet (comme dans les technoliges utilisées), nécéssite :
 | Espagnol                | ❌ |       Non traduit        |
 | Portugais               | ❌  |         Non traduit      |
 
+---
+
 # 📢 Suivre le projet
 
 Tu pourras suivre l’avancement du projet via :
