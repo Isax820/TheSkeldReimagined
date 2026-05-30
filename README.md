@@ -75,7 +75,7 @@ Inspirations principales :
 
 |                                       Among Us Version                                        |  Version |                                        Links                                        |
 |:---------------------------------------------------------------------------------------------:|:-----------------:|:-----------------------------------------------------------------------------------:|
-|                                         `v2026.**.*.*`                                         |   `v2026.*.**`   | [À VENIR]() |
+|                                         `v17.3`                                         |   `v2026.5.30`   | [Download]() |
 
 
 ---
@@ -103,9 +103,9 @@ Ce projet (comme dans les technoliges utilisées), nécéssite :
 
 ⚠️ Alternativement, si vous utilisez déjà d’autres mods ou si vous avez déjà installé BepInEx, vous pouvez télécharger le fichier DLL directement et le placer dans .BepInEx/plugins
 
-![Installation](https://private-user-images.githubusercontent.com/113532396/408619486-7ff08c67-2833-4936-9f57-b80c4d493c8f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODAwNjQ0MjAsIm5iZiI6MTc4MDA2NDEyMCwicGF0aCI6Ii8xMTM1MzIzOTYvNDA4NjE5NDg2LTdmZjA4YzY3LTI4MzMtNDkzNi05ZjU3LWI4MGM0ZDQ5M2M4Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUyOVQxNDE1MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNDZlZmE0OThhZmFlYTk3MzNhMzE5YTEzNWFmYzQzYjlhMWUyMTU2ODA2MjcxN2RiOWFhZmIzODVmZDQ2ZjQ4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.9-eHe2HFboNqRrKraQbzsHfCXHleXe_Fx4uj8HwmqJk)
+![Installation](./screens/data.png)
 
-![Setting](https://private-user-images.githubusercontent.com/113532396/407338958-464e0f80-ca8e-4b75-a605-43a7a8d5a50d.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODAwNjQ0MjAsIm5iZiI6MTc4MDA2NDEyMCwicGF0aCI6Ii8xMTM1MzIzOTYvNDA3MzM4OTU4LTQ2NGUwZjgwLWNhOGUtNGI3NS1hNjA1LTQzYTdhOGQ1YTUwZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUyOVQxNDE1MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZmVlMGYwMzEyZWJiMmViMDI4ZWRmZTU2NWE3Y2U3MDFiZjM5MjRlOThlZDAyYmY5OGEzZjdkMDRkN2ZjNjRkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.5A73-2BAE50V7hFoxu3xSjljtf0eDLpbv43sdj1Idx0)
+![Setting](./screens/settings.jpg)
 
 ---
 
