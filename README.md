@@ -62,11 +62,9 @@ Inspirations principales :
 
 ```bash
 📦 The BestSkeld
- ┣ 📂 Assets
- ┣ 📂 CustomRooms
- ┣ 📂 Textures
- ┣ 📂 Sounds
- ┣ 📂 Scripts
+ ┣ 📂 images
+ ┣ 📂 screens
+ ┣ ⚖️ LICENSE
  ┗ 📜 README.md
 ```
 
