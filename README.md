@@ -75,8 +75,6 @@ Inspirations principales :
 |:---------------------------------------------------------------------------------------------:|:-----------------:|:-----------------------------------------------------------------------------------:|
 |                                         `v17.4`                                         |   `v2026.6.*`   | [Soon]()
 |                                         `v17.3`                                         |   `v2026.6.1`   | [Download](https://github.com/Isax820/TheSkeldReimagined/releases/tag/0.2) |
-|                                         `v17.3`                                         |   `v2026.5.30`   | [Download](https://github.com/Isax820/TheSkeldReimagined/releases/tag/0.1) |
-
 
 ---
 
