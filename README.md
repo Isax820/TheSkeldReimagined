@@ -73,7 +73,7 @@ Inspirations principales :
 
 |                                       Among Us Version                                        |  Version |                                        Links                                        |
 |:---------------------------------------------------------------------------------------------:|:-----------------:|:-----------------------------------------------------------------------------------:|
-|                                         `v17.4`                                         |   `v2026.6.11`   | [Download](https://github.com/Isax820/TheSkeldReimagined/releases/tag/0.3)
+|                                         `v17.4`                                         |   `v2026.6.15`   | [Download](https://github.com/Isax820/TheSkeldReimagined/releases/tag/0.3)
 |                                         `v17.3`                                         |   `v2026.6.1`   | [Download](https://github.com/Isax820/TheSkeldReimagined/releases/tag/0.2) |
 
 ---
