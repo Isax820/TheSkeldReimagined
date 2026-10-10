@@ -60,38 +60,21 @@ Main inspirations:
 
 # 📂 Project structure
 
-```bash
-<<<<<<< Updated upstream
-📦 The BestSkeld
+```
+📦 The SkeldReimagined
  ┣ 📂 images
  ┣ 📂 screens
  ┣ ⚖️ LICENSE
  ┗ 📜 README.md
-=======
-📦The BestSkeld 
-┣ 📂 Assets 
-┣ 📂 CustomRooms 
-┣ 📂 Textures 
-┣ 📂 Sounds 
-┣ 📂 Scripts 
-┗ 📜 README.md
->>>>>>> Stashed changes
 ```
 
 
 ## Release
 
-<<<<<<< Updated upstream
 |                                       Among Us Version                                        |  Version |                                        Links                                        |
 |:---------------------------------------------------------------------------------------------:|:-----------------:|:-----------------------------------------------------------------------------------:|
 |                                         `v17.4`                                         |   `v2026.6.15`   | [Download](https://github.com/Isax820/TheSkeldReimagined/releases/tag/0.3)
 |                                         `v17.3`                                         |   `v2026.6.1`   | [Download](https://github.com/Isax820/TheSkeldReimagined/releases/tag/0.2) |
-=======
-| Among Us Version | Release | Links |
-|:-----------------------------------------------------------------------------------------------:|:-----------------:|:-----------------------------------------------------------------------------------:|
-| `v2026.**.*.*` | `v2026.*.**` | [COMING SOON]() |
-
->>>>>>> Stashed changes
 
 ---
 
@@ -100,7 +83,7 @@ Main inspirations:
 This project (as in the technologies used), requires:
 
 * 🗺️ [Level Imposter](https://github.com/DigiWorm0/LevelImposter/releases)
-* 🛠️ [Reactor](https://github.com/NuclearPowered/Reactor) (already included in Level Imposter)
+* 🛠️ [Reactor](https://github.com/NuclearPowered/Reactor) (already included in LevelImposter)
 
 ---
 
@@ -118,7 +101,6 @@ This project (as in the technologies used), requires:
 
 ⚠️ Alternatively, if you already use other mods or have BepInEx installed, you can download the DLL file directly and place it in .BepInEx/plugins
 
-<<<<<<< Updated upstream
 ![Installation](./screens/data.png)
 
 ![Setting](./screens/settings.jpg)
@@ -129,45 +111,29 @@ This project (as in the technologies used), requires:
 
 | Langue               | ❔  |              Status               |
 |-------------------------|:--:|:---------------------------------:|
-| Français                | ✅  |         Entièrement traduit|
-| Chinois              | ❌  |         Non traduit         |
-| Anglais                | ❌  |         Non traduit        |
-| Italien                 | ❌  |         Non traduit      |
-| Espagnol                | ❌ |       Non traduit        |
-| Portugais               | ❌  |         Non traduit      |
+| French              | ✅  |        Translated|
+| Chinese           | ❌  |         No translated         |
+| English                | ❌  |         No translated      |
+| Italiano                 | ❌  |         No translated      |
+| Spanish               | ❌ |       No translated        |
+| Portugese              | ❌  |         No translated     |
 
 ---
 
-# 📢 Suivre le projet
+# 📢 Follow the project
 
-Tu pourras suivre l’avancement du projet via :
+You can follow the project with :
 
 * 💬 [Discord](https://discord.gg/ZdbJnysdrK)
 
 ---
 
-# ⭐ Support
-
-Si le projet te plaît :
-
-* ⭐ Mets une étoile au repo
-* 🍴 Fork le projet
-* 🧠 Propose des idées
-* 🐛 Report les bugs
-
----
-
 # 🔥 Preview
 
-> « Refaire The Skeld… mais en version totalement nouvelle. »
+« Remaking The Skeld… but as a completely new version. »
 
 ---
 
 <p align="center">
   <b>🚀 The Skeld Reimagined Project 🚀</b>
 </p>
-=======
-![Installation](https://private-user-images.githubusercontent.com/113532396/408619486-7ff08c67-2833-4936- 9f57-b80c4d493c8f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3Lm dpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzk2ODg4OTQsIm5iZiI6MTc3OTY4ODU5NCwicGF0aCI6Ii8 xMTM1MzIzOTYvNDA4NjE5NDg2LTdmZjA4YzY3LTI4MzMtNDkzNi05ZjU3LWI4MGM0ZDQ5M2M4Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXU zQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTI1JTJGdXMtZWFzdC0xJTJGcz MlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUyNVQwNTU2MzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01 MmRjZTM5M2RjZmFlYWU0YzA5MDhlMTkxZTliZjkzNDA5N2FhNmZkNjJlZjU2ZDVmZTRkMGRhNzMzMmQzZTkxJlgtQW16LVNpZ25lZEhlY WRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.ClrWba131dV0jwt1pL4lzRGyGru2o2_oaIVsbFhbZ2g)
-
-![Setting](https://private-user-images.githubusercontent.com/113532396/407338958-464e0 f80-ca8e-4b75-a605-43a7a8d5a50d.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiO iJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHA iOjE3Nzk2ODk1NDIsIm5iZiI6MTc3OTY4OTI0MiwicGF0aCI6Ii8xMTM1MzIzOTYvNDA3MzM4OTU4LTQ2NGUwZ jgwLWNhOGUtNGI3NS1hNjA1LTQzYTdhOGQ1YTUwZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEE yNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTI1JTJGdXMtZWFzdC0xJ TJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUyNVQwNjA3MjJaJlgtQW16LUV4cGlyZXM9MzA wJlgtQW16LVNpZ25hdHVyZT0zOThjNmVjYTNjOWY1NDZjMTc3YTc5NTc4MzFiOGVlMDQ3NTE5ZTU3ZTY5NWU3Y2
->>>>>>> Stashed changes
