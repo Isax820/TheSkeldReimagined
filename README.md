@@ -73,6 +73,7 @@ Main inspirations:
 
 |                                       Among Us Version                                        |  Version |                                        Links                                        |
 |:---------------------------------------------------------------------------------------------:|:-----------------:|:-----------------------------------------------------------------------------------:|
+|                                         `v19`                                         |   `v2026.10.11`   | [Soon...]()
 |                                         `v17.4`                                         |   `v2026.6.15`   | [Download](https://github.com/Isax820/TheSkeldReimagined/releases/tag/0.3)
 |                                         `v17.3`                                         |   `v2026.6.1`   | [Download](https://github.com/Isax820/TheSkeldReimagined/releases/tag/0.2) |
 
@@ -82,8 +83,10 @@ Main inspirations:
 
 This project (as in the technologies used), requires:
 
-* 🗺️ [Level Imposter](https://github.com/DigiWorm0/LevelImposter/releases)
-* 🛠️ [Reactor](https://github.com/NuclearPowered/Reactor) (already included in LevelImposter)
+|                                       Name                                        |  Version |                                                                   
+|:---------------------------------------------------------------------------------------------:|:-----------------:|
+|                                         LevelImposter                                         |   [v1.0.2](https://github.com/DigiWorm0/LevelImposter)   |
+|                                         Reactor                                         |   [v2.5.1](https://github.com/NuclearPowered/Reactor/releases)   | 
 
 ---
 
@@ -92,8 +95,8 @@ This project (as in the technologies used), requires:
 - 1 Download the correct ZIP version based on your Among Us version (in [release](https://github.com/Isax820/TheSkeldReimagined#release))
 
 - 2 Access the folder where Among Us is installed: 
-- Steam: `C:\Program Files (x86)\Steam\steamapps\common\Among Us` 
-- Epic Games: `C:\Program Files\Epic Games\AmongUs`
+   - Steam: `C:\Program Files (x86)\Steam\steamapps\common\Among Us` 
+   - Epic Games: `C:\Program Files\Epic Games\AmongUs`
 
 - 3 Extract the downloaded files there. Make sure the folder is in the same folder as the file (see screenshot below). BepInExAmong Us.exe
 
