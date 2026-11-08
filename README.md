@@ -1,4 +1,10 @@
-# 🚀 The Skeld Reimagined — Custom Map Project
+<h1 align="center">
+ 🚀 The Skeld Reimagined
+</h1>
+
+<p align="center">
+Custom Map Project
+<br/>
 
 ## 🎮 Presentation of the project
 
