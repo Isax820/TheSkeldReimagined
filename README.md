@@ -18,7 +18,7 @@ Development is carried out using the **Level Impostor** mod, allowing the creati
 
 # 🖼️ Project Overview
 
-![Map](./screens/map.png)
+![Map](./Screens/map.png)
 
 ---
 
@@ -85,7 +85,7 @@ This project (as in the technologies used), requires:
 
 |                                       Name                                        |  Version |                                                                   
 |:---------------------------------------------------------------------------------------------:|:-----------------:|
-|                                         LevelImposter                                         |   [v1.0.2](https://github.com/DigiWorm0/LevelImposter)   |
+|                                         LevelImposter                                         |   [v2026.10.11](https://github.com/Isax820/LevelImposter)   |
 |                                         Reactor                                         |   [v2.5.1](https://github.com/NuclearPowered/Reactor/releases)   | 
 
 ---
@@ -104,9 +104,9 @@ This project (as in the technologies used), requires:
 
 ⚠️ Alternatively, if you already use other mods or have BepInEx installed, you can download the DLL file directly and place it in .BepInEx/plugins
 
-![Installation](./screens/data.png)
+![Installation](./Screens/data.png)
 
-![Setting](./screens/settings.jpg)
+![Setting](./Screens/settings.jpg)
 
 ---
 
