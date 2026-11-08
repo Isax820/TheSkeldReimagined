@@ -18,7 +18,7 @@ Development is carried out using the **Level Impostor** mod, allowing the creati
 
 # 🖼️ Project Overview
 
-![Map](./Screens/map.png)
+![Map](./screens/map.png)
 
 ---
 
@@ -104,9 +104,9 @@ This project (as in the technologies used), requires:
 
 ⚠️ Alternatively, if you already use other mods or have BepInEx installed, you can download the DLL file directly and place it in .BepInEx/plugins
 
-![Installation](./Screens/data.png)
+![Installation](./screens/data.png)
 
-![Setting](./Screens/settings.jpg)
+![Setting](./screens/settings.jpg)
 
 ---
 
